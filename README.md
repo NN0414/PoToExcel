@@ -5,9 +5,10 @@ This program is a tool designed to convert PO (Gettext Portable Object) files to
 
 ## Usage
 1. **Install Dependencies**:
-   - Make sure you have installed the required dependencies: `openpyxl`, `polib`, and `pandas`. You can install these dependencies using the following command:
+   - Make sure you have installed the required dependencies: `openpyxl`, `polib`. You can install these dependencies using the following command:
      ```
-     pip install openpyxl polib pandas
+     pip install polib
+     pip install openpyxl
      ```
 
 2. **Run the Program**:
